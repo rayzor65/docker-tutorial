@@ -13,7 +13,7 @@ Note: docker-machine is required because docker does not run natively on OSX
 
 ### The dockerfile
 This is used to build your image. Typically for your project you will use a base image
-and then add the tools and configuration need for your own project. If you've ever used Vagrant and
+and then add the tools and configuration needed for your own project. If you've ever used Vagrant and
 Vagrantfile this is similar.
 
 ### Getting your web application running
@@ -21,7 +21,7 @@ Note: These commands are in init.sh, just run the script in your docker quicksta
 
 __1. Start your docker quickstart terminal__
 
-__2 .Build your image__
+__2. Build your image__
 
 $ docker build -t webappimage .
 
