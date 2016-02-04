@@ -16,7 +16,7 @@ This is used to build your image. Typically for your project you will use a base
 and then add the tools and configuration need for your own project. If you've ever used Vagrant and
 Vagrantfile this is similar.
 
-### Getting your web application running
+### Getting your web application running  
 Note: These commands are in init.sh, just run the script in your docker quickstart terminal
 
 - Start your docker quickstart terminal
