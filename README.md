@@ -48,4 +48,5 @@ $ open http://192.168.99.100:8080/
 If something goes wrong in the process you can stop and remove all containers by doing
 
 $ docker stop $(docker ps -a -q)
+
 $ docker rm $(docker ps -a -q)
